@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #162133;
+  color: #c3c3c5;
+  font-size: 1.3rem;
+}
+
+h1, h2, h3 {
+  color: #f636f6;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 750px;
+  padding: 0 5%;
+}
+
+.flex {
+  display: flex;
+  gap: 1rem;
+}
+
+ul.flex {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
