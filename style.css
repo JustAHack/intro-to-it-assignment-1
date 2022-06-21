@@ -8,7 +8,7 @@ html {
 body {
   background-color: #162133;
   color: #c3c3c5;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
 }
 
 h1, h2, h3 {
@@ -16,12 +16,12 @@ h1, h2, h3 {
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 750px;
+  max-width: 950px;
   padding: 0 5%;
 }
 
